@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1468498632.svg)](https://doi.org/10.5281/zenodo.24460254)
 # Blockchain-AI Fusion for Secure and Transparent Data Science Workflows
 
 ## Overview
