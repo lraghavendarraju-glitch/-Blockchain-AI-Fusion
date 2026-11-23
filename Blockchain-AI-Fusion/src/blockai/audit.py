@@ -1,4 +1,3 @@
-"""Reconstruct committed transaction lineages and combine policy and AI flags."""
 from __future__ import annotations
 from dataclasses import dataclass, asdict
 from collections import defaultdict
