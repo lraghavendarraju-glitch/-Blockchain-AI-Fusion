@@ -1,4 +1,3 @@
-"""Independent reference baselines. Graph isolation proxy is NOT the original UNICORN."""
 from __future__ import annotations
 from typing import Sequence
 import numpy as np
