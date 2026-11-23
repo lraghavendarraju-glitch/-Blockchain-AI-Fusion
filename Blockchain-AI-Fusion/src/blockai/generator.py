@@ -1,4 +1,3 @@
-"""Seeded DAG workflow simulator matching the paper's normal/attack proportions."""
 from __future__ import annotations
 from copy import deepcopy
 from collections import Counter
