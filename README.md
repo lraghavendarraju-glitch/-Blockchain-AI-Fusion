@@ -306,9 +306,6 @@ To start the provided Fabric test network:
 
 This integration requires Docker, Hyperledger Fabric tools, network configuration, and valid certificates.
 
-Refer to:
-
-`fabric/README.md`
 
 ## Provenance and Audit Management
 
@@ -331,8 +328,6 @@ python -m blockai artifact-store --input datasets/workflows.jsonl.gz --limit 10 
 ```bash
 python -m blockai governance-demo --input datasets/workflows.jsonl.gz --model results/main/model --auto-audit --output results/governance.json
 ```
-
-**Security Note:** Keep encryption keys, certificates, access tokens, and private credentials secure. Never upload secret keys or authentication tokens to a public repository.
 
 ## External Dataset Integration
 
@@ -431,17 +426,11 @@ python -m blockai --help
 - External datasets must retain their original licenses and attribution.
 - Local ledger operations and Hyperledger Fabric transactions are separate implementations.
 
-## License
-
-This project is distributed under the MIT License.
-
-See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 The project uses open-source technologies and frameworks, including PyTorch, Scikit-learn, NetworkX, Python Cryptography, and Hyperledger Fabric.
 
-External datasets and third-party software retain their respective licenses and attribution requirements.
 
 ## Repository
 
