@@ -1,4 +1,6 @@
 [![DOI](https://zenodo.org/badge/1468498632.svg)](https://doi.org/10.5281/zenodo.24460254)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/lraghavendarraju-glitch/-Blockchain-AI-Fusion)
+
 # Blockchain-AI Fusion for Secure and Transparent Data Science Workflows
 
 ## Overview
