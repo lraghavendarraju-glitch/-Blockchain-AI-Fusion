@@ -1,4 +1,3 @@
-"""Disjoint protocols, per-trace predictions, CIs, and paired statistical tests."""
 from __future__ import annotations
 from collections import Counter,defaultdict
 from typing import Sequence
