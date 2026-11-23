@@ -1,8 +1,3 @@
-"""Native-PyTorch GATv2 implementation; no compiled torch-geometric dependency.
-
-Exact formula: e_ij = a^T LeakyReLU(W_src x_i + W_dst x_j).
-Softmax and message aggregation are performed over destination-node incoming edges.
-"""
 from __future__ import annotations
 from dataclasses import dataclass
 from typing import Sequence
