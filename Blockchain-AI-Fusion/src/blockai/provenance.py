@@ -1,4 +1,3 @@
-"""Canonical cryptographic evidence and encrypted off-chain artifact storage."""
 from __future__ import annotations
 from collections import defaultdict
 from dataclasses import dataclass
