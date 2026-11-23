@@ -1,9 +1,3 @@
-"""Train-only fitted numeric encoders + learned categorical IDs for ProvSeqGAT.
-
-Feature layout: 16 step embedding + 8 transition + 12 parameter/metric
-+ 8 role embedding + 4 numeric actor + 8 integrity + 8 temporal = 64.
-No ground-truth attack labels, attack types or injected-step IDs are features.
-"""
 from __future__ import annotations
 from collections import Counter, defaultdict
 from dataclasses import dataclass
