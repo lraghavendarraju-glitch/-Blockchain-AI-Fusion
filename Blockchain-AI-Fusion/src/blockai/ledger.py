@@ -1,4 +1,3 @@
-"""Signed, append-only research ledger; NOT a substitute for Hyperledger Fabric."""
 from __future__ import annotations
 from dataclasses import dataclass, asdict
 from typing import Any
