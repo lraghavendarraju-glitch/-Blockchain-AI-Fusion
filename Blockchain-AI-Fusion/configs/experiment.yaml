@@ -1,0 +1,16 @@
+seeds: [42, 11, 23, 37, 58, 61, 77, 89, 97, 101]
+n_workflows: 10000
+attack_fraction: 0.30
+min_steps: 5
+max_steps: 50
+batch_size: 64
+epochs: 100
+patience: 10
+learning_rate: 0.001
+model_hidden_size: 64
+num_gat_heads: 4
+num_gat_layers: 2
+warmup_epochs: 5
+weight_decay: 0.0001
+dropout: 0.3
+optuna_trials: 40

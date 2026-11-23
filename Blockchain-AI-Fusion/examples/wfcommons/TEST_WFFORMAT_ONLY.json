@@ -1,0 +1,19 @@
+{
+  "name": "illustrative-wfcommons-format-example-not-a-real-public-instance",
+  "description": "Synthetic two-task WfFormat-shaped parser fixture",
+  "schemaVersion": "1.6",
+  "workflow": {
+    "specification": {
+      "tasks": [
+        {"id":"t1","name":"load_dataset","parents":[],"children":["t2"],"inputFiles":[],"outputFiles":["dataset.csv"]},
+        {"id":"t2","name":"train_model","parents":["t1"],"children":[],"inputFiles":["dataset.csv"],"outputFiles":["model.pt"]}
+      ]
+    },
+    "execution": {
+      "tasks": [
+        {"id":"t1","executedAt":"2025-01-01T00:00:00Z","runtimeInSeconds":1.2},
+        {"id":"t2","executedAt":"2025-01-01T00:00:02Z","runtimeInSeconds":4.8}
+      ]
+    }
+  }
+}

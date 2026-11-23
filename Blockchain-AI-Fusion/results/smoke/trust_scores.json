@@ -1,0 +1,263 @@
+[
+  {
+    "workflow_id": "WF_000004",
+    "anomaly_probability": 0.4894329011440277,
+    "integrity_fraction": 0.9090909090909091,
+    "mean_historical_actor_trust": 0.8000000000000002,
+    "trust_score": 0.6536129865863106,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000006",
+    "anomaly_probability": 0.48795703053474426,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8000000000000002,
+    "trust_score": 0.6772257816791535,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000010",
+    "anomaly_probability": 0.48783817887306213,
+    "integrity_fraction": 0.9333333333333333,
+    "mean_historical_actor_trust": 0.8000000000000002,
+    "trust_score": 0.6606304260094961,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000018",
+    "anomaly_probability": 0.4576382637023926,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.6954170417785644,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000019",
+    "anomaly_probability": 0.39703020453453064,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7303152130047481,
+    "trust_score": 0.7213291592299937,
+    "requires_auditor": false,
+    "actor_count": 2
+  },
+  {
+    "workflow_id": "WF_000023",
+    "anomaly_probability": 0.4541729986667633,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7590752605597179,
+    "trust_score": 0.6913574898838997,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000024",
+    "anomaly_probability": 0.487583726644516,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.6774497640132904,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000025",
+    "anomaly_probability": 0.4567193388938904,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7818299654366242,
+    "trust_score": 0.6932428914791593,
+    "requires_auditor": false,
+    "actor_count": 6
+  },
+  {
+    "workflow_id": "WF_000027",
+    "anomaly_probability": 0.44943952560424805,
+    "integrity_fraction": 0.9444444444444444,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.6864473957485623,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000033",
+    "anomaly_probability": 0.5060469508171082,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7512043288621036,
+    "trust_score": 0.6590524788390506,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000035",
+    "anomaly_probability": 0.4654548466205597,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7496133783237794,
+    "trust_score": 0.683169098776231,
+    "requires_auditor": false,
+    "actor_count": 5
+  },
+  {
+    "workflow_id": "WF_000038",
+    "anomaly_probability": 0.4472895562648773,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.7016262662410736,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000041",
+    "anomaly_probability": 0.44887906312942505,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7550927293557326,
+    "trust_score": 0.6939364715257048,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000042",
+    "anomaly_probability": 0.4199485182762146,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7466214457395797,
+    "trust_score": 0.7100241058952081,
+    "requires_auditor": false,
+    "actor_count": 2
+  },
+  {
+    "workflow_id": "WF_000048",
+    "anomaly_probability": 0.44746077060699463,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.7015235376358032,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000052",
+    "anomaly_probability": 0.48338082432746887,
+    "integrity_fraction": 0.9090909090909091,
+    "mean_historical_actor_trust": 0.7644142971597198,
+    "trust_score": 0.6519063772502038,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000053",
+    "anomaly_probability": 0.4430858790874481,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.7041484725475311,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000056",
+    "anomaly_probability": 0.4710538387298584,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7405089132013861,
+    "trust_score": 0.6784440337422928,
+    "requires_auditor": false,
+    "actor_count": 4
+  },
+  {
+    "workflow_id": "WF_000057",
+    "anomaly_probability": 0.4999229907989502,
+    "integrity_fraction": 0.8888888888888888,
+    "mean_historical_actor_trust": 0.7138386994976702,
+    "trust_score": 0.6293442326675026,
+    "requires_auditor": false,
+    "actor_count": 4
+  },
+  {
+    "workflow_id": "WF_000061",
+    "anomaly_probability": 0.465871125459671,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7008106745320586,
+    "trust_score": 0.6755989259040063,
+    "requires_auditor": false,
+    "actor_count": 4
+  },
+  {
+    "workflow_id": "WF_000063",
+    "anomaly_probability": 0.47636908292770386,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.72864171148957,
+    "trust_score": 0.673474806966813,
+    "requires_auditor": false,
+    "actor_count": 3
+  },
+  {
+    "workflow_id": "WF_000066",
+    "anomaly_probability": 0.43928253650665283,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.6536129865863106,
+    "trust_score": 0.684472426083955,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000068",
+    "anomaly_probability": 0.4704325199127197,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.683169098776231,
+    "trust_score": 0.6702158528688028,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000070",
+    "anomaly_probability": 0.44892120361328125,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.6774497640132904,
+    "trust_score": 0.6822647424340249,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000083",
+    "anomaly_probability": 0.46248528361320496,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.6698873734549939,
+    "trust_score": 0.6729919358503261,
+    "requires_auditor": false,
+    "actor_count": 2
+  },
+  {
+    "workflow_id": "WF_000082",
+    "anomaly_probability": 0.5000383257865906,
+    "integrity_fraction": 0.8636363636363636,
+    "mean_historical_actor_trust": 0.8,
+    "trust_score": 0.6358860954371366,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000085",
+    "anomaly_probability": 0.47417891025543213,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.6981588665933602,
+    "trust_score": 0.6702164838357447,
+    "requires_auditor": false,
+    "actor_count": 4
+  },
+  {
+    "workflow_id": "WF_000089",
+    "anomaly_probability": 0.4847891926765442,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.6766924758225169,
+    "trust_score": 0.6606303557674511,
+    "requires_auditor": false,
+    "actor_count": 1
+  },
+  {
+    "workflow_id": "WF_000092",
+    "anomaly_probability": 0.464278906583786,
+    "integrity_fraction": 1.0,
+    "mean_historical_actor_trust": 0.7512043288621036,
+    "trust_score": 0.6841133053790439,
+    "requires_auditor": false,
+    "actor_count": 3
+  }
+]

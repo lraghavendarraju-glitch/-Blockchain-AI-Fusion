@@ -1,0 +1,17 @@
+[
+  {
+    "epoch": 1,
+    "loss": 1.1764402240514755,
+    "validation_pr_auc": 0.6428571428571428
+  },
+  {
+    "epoch": 2,
+    "loss": 0.9405252933502197,
+    "validation_pr_auc": 1.0
+  },
+  {
+    "epoch": 3,
+    "loss": 1.1464406549930573,
+    "validation_pr_auc": 1.0
+  }
+]

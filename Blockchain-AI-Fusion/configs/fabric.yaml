@@ -1,0 +1,5 @@
+backend: fabric
+url: http://127.0.0.1:8080
+channel: mychannel
+chaincode: wfgov
+# Set BLOCKAI_GATEWAY_TOKEN via environment; do not commit credentials.

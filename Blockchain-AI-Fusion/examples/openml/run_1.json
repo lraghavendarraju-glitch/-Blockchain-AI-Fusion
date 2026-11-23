@@ -1,0 +1,9 @@
+{
+  "run_id": 1,
+  "task_id": 33,
+  "flow_id": 97,
+  "uploader": "illustrative-user",
+  "upload_time": "2025-01-01T00:00:00Z",
+  "parameter_settings": {"learning_rate": 0.001, "batch_size": 32},
+  "description": "Synthetic OpenML-shaped parser fixture; not a real run"
+}

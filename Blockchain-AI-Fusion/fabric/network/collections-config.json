@@ -1,0 +1,11 @@
+[
+  {
+    "name": "parametersPrivateCollection",
+    "policy": "OR('Org1MSP.member', 'Org2MSP.member')",
+    "requiredPeerCount": 0,
+    "maxPeerCount": 2,
+    "blockToLive": 10000,
+    "memberOnlyRead": true,
+    "memberOnlyWrite": true
+  }
+]

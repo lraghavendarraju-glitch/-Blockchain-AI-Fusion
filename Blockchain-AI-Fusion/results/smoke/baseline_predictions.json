@@ -1,0 +1,947 @@
+{
+  "RuleOnly": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.896551724137931,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "far": 0.0,
+      "tn": 20,
+      "fp": 0,
+      "fn": 3,
+      "tp": 6,
+      "pr_auc": 0.7701149425287356,
+      "roc_auc": 0.8333333333333333
+    },
+    "threshold": 0.5,
+    "predictions": {
+      "WF_000027": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000035": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000010": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000052": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000048": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000033": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000038": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000068": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000042": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000004": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000092": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.0,
+        "predicted": 0
+      },
+      "WF_000070": {
+        "probability": 0.0,
+        "predicted": 0
+      }
+    }
+  },
+  "IsolationForest": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.6551724137931034,
+      "precision": 0.42857142857142855,
+      "recall": 0.3333333333333333,
+      "f1": 0.375,
+      "far": 0.2,
+      "tn": 16,
+      "fp": 4,
+      "fn": 6,
+      "tp": 3,
+      "pr_auc": 0.5183008521501813,
+      "roc_auc": 0.6777777777777778
+    },
+    "threshold": 0.6322175576567136,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.6359609167568906,
+        "predicted": 1
+      },
+      "WF_000035": {
+        "probability": 0.6280510455109177,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.6689430049285381,
+        "predicted": 1
+      },
+      "WF_000019": {
+        "probability": 0.5216963460386842,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.525359182151031,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.8652949192707448,
+        "predicted": 1
+      },
+      "WF_000010": {
+        "probability": 0.8107684028047173,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.5247824180308771,
+        "predicted": 0
+      },
+      "WF_000052": {
+        "probability": 0.5876587964090867,
+        "predicted": 0
+      },
+      "WF_000048": {
+        "probability": 0.44081814328202484,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.6473715599913042,
+        "predicted": 1
+      },
+      "WF_000033": {
+        "probability": 0.3759710876749121,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 0.4807546039484101,
+        "predicted": 0
+      },
+      "WF_000038": {
+        "probability": 0.3132257475404208,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.4872820984892634,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.3785512335642836,
+        "predicted": 0
+      },
+      "WF_000068": {
+        "probability": 0.3491063031724283,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 0.9729078174351891,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.5840567718554426,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.3652333138432338,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.7246343418961116,
+        "predicted": 1
+      },
+      "WF_000042": {
+        "probability": 0.4463513686882653,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.2951355595920944,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.5953028964511081,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.4430251230459935,
+        "predicted": 0
+      },
+      "WF_000004": {
+        "probability": 0.4957867281511079,
+        "predicted": 0
+      },
+      "WF_000092": {
+        "probability": 0.5900060056619282,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.45612761833548526,
+        "predicted": 0
+      },
+      "WF_000070": {
+        "probability": 0.5026108918982846,
+        "predicted": 0
+      }
+    }
+  },
+  "OneClassSVM": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.896551724137931,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "far": 0.0,
+      "tn": 20,
+      "fp": 0,
+      "fn": 3,
+      "tp": 6,
+      "pr_auc": 0.9459876543209877,
+      "roc_auc": 0.9722222222222222
+    },
+    "threshold": 0.9998639443973283,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.9915904129056945,
+        "predicted": 0
+      },
+      "WF_000035": {
+        "probability": 0.9968676966438467,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.7023521600984826,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.9857046163129928,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.3549478328357771,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.5452438703090796,
+        "predicted": 0
+      },
+      "WF_000010": {
+        "probability": 0.9998813081824858,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.987693161079229,
+        "predicted": 0
+      },
+      "WF_000052": {
+        "probability": 0.9999999999174747,
+        "predicted": 1
+      },
+      "WF_000048": {
+        "probability": 0.6851311209976736,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.8856212279009387,
+        "predicted": 0
+      },
+      "WF_000033": {
+        "probability": 0.8134964606259458,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 0.9999999999393772,
+        "predicted": 1
+      },
+      "WF_000038": {
+        "probability": 0.2989402612018741,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.9777833209255827,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.10811266305151125,
+        "predicted": 0
+      },
+      "WF_000068": {
+        "probability": 0.44238743844313766,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 0.9999999999774001,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.5679960347127356,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.8299824566442847,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.7025796909855663,
+        "predicted": 0
+      },
+      "WF_000042": {
+        "probability": 0.4468336432614196,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.3703569937395589,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.9999999995639857,
+        "predicted": 1
+      },
+      "WF_000018": {
+        "probability": 0.9757490312687086,
+        "predicted": 0
+      },
+      "WF_000004": {
+        "probability": 0.9999999999321811,
+        "predicted": 1
+      },
+      "WF_000092": {
+        "probability": 0.6614626973789933,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.5417863149627247,
+        "predicted": 0
+      },
+      "WF_000070": {
+        "probability": 0.6871452140040402,
+        "predicted": 0
+      }
+    }
+  },
+  "XGBoost": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.896551724137931,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "far": 0.0,
+      "tn": 20,
+      "fp": 0,
+      "fn": 3,
+      "tp": 6,
+      "pr_auc": 0.887820512820513,
+      "roc_auc": 0.8888888888888888
+    },
+    "threshold": 0.7114883065223694,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.7200906872749329,
+        "predicted": 1
+      },
+      "WF_000035": {
+        "probability": 0.16627706587314606,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.2938513457775116,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.045781783759593964,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.13072915375232697,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.141361802816391,
+        "predicted": 0
+      },
+      "WF_000010": {
+        "probability": 0.7547343969345093,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.06730522215366364,
+        "predicted": 0
+      },
+      "WF_000052": {
+        "probability": 0.8119070529937744,
+        "predicted": 1
+      },
+      "WF_000048": {
+        "probability": 0.1285886913537979,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.11194171756505966,
+        "predicted": 0
+      },
+      "WF_000033": {
+        "probability": 0.3623194098472595,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 0.8899792432785034,
+        "predicted": 1
+      },
+      "WF_000038": {
+        "probability": 0.06009848415851593,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.06268155574798584,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.18446706235408783,
+        "predicted": 0
+      },
+      "WF_000068": {
+        "probability": 0.2848074436187744,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 0.8629328012466431,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.3287212550640106,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.10593735426664352,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.06212393566966057,
+        "predicted": 0
+      },
+      "WF_000042": {
+        "probability": 0.05368225276470184,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.1786922663450241,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.4843199849128723,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.26061004400253296,
+        "predicted": 0
+      },
+      "WF_000004": {
+        "probability": 0.7739279270172119,
+        "predicted": 1
+      },
+      "WF_000092": {
+        "probability": 0.3971821665763855,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.2464287430047989,
+        "predicted": 0
+      },
+      "WF_000070": {
+        "probability": 0.06948572397232056,
+        "predicted": 0
+      }
+    }
+  },
+  "ProvenanceGraph_IF_proxy": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.6551724137931034,
+      "precision": 0.45454545454545453,
+      "recall": 0.5555555555555556,
+      "f1": 0.5,
+      "far": 0.3,
+      "tn": 14,
+      "fp": 6,
+      "fn": 4,
+      "tp": 5,
+      "pr_auc": 0.5514285714285714,
+      "roc_auc": 0.5888888888888889
+    },
+    "threshold": 0.5741067241031395,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.6838837718422913,
+        "predicted": 1
+      },
+      "WF_000035": {
+        "probability": 0.5827818728644802,
+        "predicted": 1
+      },
+      "WF_000006": {
+        "probability": 0.516826148314084,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.46493457184583864,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.48891718876359425,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.7240984493551035,
+        "predicted": 1
+      },
+      "WF_000010": {
+        "probability": 0.8085323713781148,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.635162715234839,
+        "predicted": 1
+      },
+      "WF_000052": {
+        "probability": 0.3284400314803655,
+        "predicted": 0
+      },
+      "WF_000048": {
+        "probability": 0.42609341929937483,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.47421534390706427,
+        "predicted": 0
+      },
+      "WF_000033": {
+        "probability": 0.3802789055010437,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 0.45637687300447344,
+        "predicted": 0
+      },
+      "WF_000038": {
+        "probability": 0.39449494240781896,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.45675652501978253,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.727491145846198,
+        "predicted": 1
+      },
+      "WF_000068": {
+        "probability": 0.4450521111220682,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 0.9121810457689814,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.4214270738304373,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.437095221771981,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.7230495791558914,
+        "predicted": 1
+      },
+      "WF_000042": {
+        "probability": 0.5466843141485448,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.2385132302364086,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.41952718447745146,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.6729930084686586,
+        "predicted": 1
+      },
+      "WF_000004": {
+        "probability": 0.4007816779706476,
+        "predicted": 0
+      },
+      "WF_000092": {
+        "probability": 0.42529365895620386,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.601612561979421,
+        "predicted": 1
+      },
+      "WF_000070": {
+        "probability": 0.6345250299000387,
+        "predicted": 1
+      }
+    }
+  },
+  "LSTM_Autoencoder": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.8620689655172413,
+      "precision": 1.0,
+      "recall": 0.5555555555555556,
+      "f1": 0.7142857142857143,
+      "far": 0.0,
+      "tn": 20,
+      "fp": 0,
+      "fn": 4,
+      "tp": 5,
+      "pr_auc": 0.9888888888888892,
+      "roc_auc": 0.9944444444444444
+    },
+    "threshold": 0.9999734581782983,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.9682331795087334,
+        "predicted": 0
+      },
+      "WF_000035": {
+        "probability": 0.9959954422161114,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.7803892272137781,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.9579619576006553,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.2583864067161166,
+        "predicted": 0
+      },
+      "WF_000041": {
+        "probability": 0.5992338096550603,
+        "predicted": 0
+      },
+      "WF_000010": {
+        "probability": 0.9999994496263764,
+        "predicted": 1
+      },
+      "WF_000025": {
+        "probability": 0.9993719802472183,
+        "predicted": 0
+      },
+      "WF_000052": {
+        "probability": 0.9999999309501938,
+        "predicted": 1
+      },
+      "WF_000048": {
+        "probability": 0.7461010940171272,
+        "predicted": 0
+      },
+      "WF_000023": {
+        "probability": 0.7317016394111608,
+        "predicted": 0
+      },
+      "WF_000033": {
+        "probability": 0.6113034278993373,
+        "predicted": 0
+      },
+      "WF_000082": {
+        "probability": 0.9999999921069244,
+        "predicted": 1
+      },
+      "WF_000038": {
+        "probability": 0.2006709704898106,
+        "predicted": 0
+      },
+      "WF_000089": {
+        "probability": 0.8041951580164376,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.48232405077276835,
+        "predicted": 0
+      },
+      "WF_000068": {
+        "probability": 0.26937550469120125,
+        "predicted": 0
+      },
+      "WF_000057": {
+        "probability": 1.0,
+        "predicted": 1
+      },
+      "WF_000085": {
+        "probability": 0.6852768126629127,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.5294184370379735,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.47022405840381254,
+        "predicted": 0
+      },
+      "WF_000042": {
+        "probability": 0.24611900220022967,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.3620816972340248,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.9968255942762625,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.9984685741063588,
+        "predicted": 0
+      },
+      "WF_000004": {
+        "probability": 0.9999999876541928,
+        "predicted": 1
+      },
+      "WF_000092": {
+        "probability": 0.8396220142708718,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.3054116660472468,
+        "predicted": 0
+      },
+      "WF_000070": {
+        "probability": 0.24106425685615088,
+        "predicted": 0
+      }
+    }
+  },
+  "DeepLog": {
+    "metrics": {
+      "n": 29,
+      "accuracy": 0.5172413793103449,
+      "precision": 0.2727272727272727,
+      "recall": 0.3333333333333333,
+      "f1": 0.3,
+      "far": 0.4,
+      "tn": 12,
+      "fp": 8,
+      "fn": 6,
+      "tp": 3,
+      "pr_auc": 0.2973194589573899,
+      "roc_auc": 0.45
+    },
+    "threshold": 0.6278632375124831,
+    "predictions": {
+      "WF_000027": {
+        "probability": 0.6664502542543799,
+        "predicted": 1
+      },
+      "WF_000035": {
+        "probability": 0.36769078260318255,
+        "predicted": 0
+      },
+      "WF_000006": {
+        "probability": 0.4503740804887809,
+        "predicted": 0
+      },
+      "WF_000019": {
+        "probability": 0.4703144328996108,
+        "predicted": 0
+      },
+      "WF_000053": {
+        "probability": 0.6742000160468421,
+        "predicted": 1
+      },
+      "WF_000041": {
+        "probability": 0.5772731853239546,
+        "predicted": 0
+      },
+      "WF_000010": {
+        "probability": 0.6037367724872638,
+        "predicted": 0
+      },
+      "WF_000025": {
+        "probability": 0.6947451655798161,
+        "predicted": 1
+      },
+      "WF_000052": {
+        "probability": 0.41814877637923403,
+        "predicted": 0
+      },
+      "WF_000048": {
+        "probability": 0.9591864161140882,
+        "predicted": 1
+      },
+      "WF_000023": {
+        "probability": 0.8065376432465337,
+        "predicted": 1
+      },
+      "WF_000033": {
+        "probability": 0.7081981016027459,
+        "predicted": 1
+      },
+      "WF_000082": {
+        "probability": 0.3821098239353585,
+        "predicted": 0
+      },
+      "WF_000038": {
+        "probability": 0.6871133288458472,
+        "predicted": 1
+      },
+      "WF_000089": {
+        "probability": 0.6005970261863024,
+        "predicted": 0
+      },
+      "WF_000083": {
+        "probability": 0.9140644760431964,
+        "predicted": 1
+      },
+      "WF_000068": {
+        "probability": 0.9591864161140882,
+        "predicted": 1
+      },
+      "WF_000057": {
+        "probability": 0.1633451888678917,
+        "predicted": 0
+      },
+      "WF_000085": {
+        "probability": 0.5724817681230446,
+        "predicted": 0
+      },
+      "WF_000024": {
+        "probability": 0.30950084746424594,
+        "predicted": 0
+      },
+      "WF_000066": {
+        "probability": 0.3466936341217118,
+        "predicted": 0
+      },
+      "WF_000042": {
+        "probability": 0.26854052418202623,
+        "predicted": 0
+      },
+      "WF_000061": {
+        "probability": 0.36939269165678856,
+        "predicted": 0
+      },
+      "WF_000056": {
+        "probability": 0.5362437786204471,
+        "predicted": 0
+      },
+      "WF_000018": {
+        "probability": 0.782574687503845,
+        "predicted": 1
+      },
+      "WF_000004": {
+        "probability": 0.4156988248494125,
+        "predicted": 0
+      },
+      "WF_000092": {
+        "probability": 0.3600196449678828,
+        "predicted": 0
+      },
+      "WF_000063": {
+        "probability": 0.7486170086891875,
+        "predicted": 1
+      },
+      "WF_000070": {
+        "probability": 0.5030749931546638,
+        "predicted": 0
+      }
+    }
+  }
+}

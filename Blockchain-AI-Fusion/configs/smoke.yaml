@@ -1,0 +1,13 @@
+seed: 42
+n_workflows: 96
+attack_fraction: 0.30
+min_steps: 5
+max_steps: 22
+batch_size: 8
+epochs: 3
+patience: 2
+learning_rate: 0.001
+model_hidden_size: 64
+num_gat_heads: 4
+num_gat_layers: 2
+threshold_target_precision: 0.99
