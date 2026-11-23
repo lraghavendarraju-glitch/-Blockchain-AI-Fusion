@@ -1,4 +1,3 @@
-"""Command-line entry point for reproducible research experiments."""
 from __future__ import annotations
 import argparse
 import json
