@@ -1,7 +1,4 @@
-#!/usr/bin/env bash
 set -euo pipefail
-# Real Fabric test-network requires Docker and the official binary distributions.
-# This is a two-organization development network, not the paper's 4-org topology.
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 SAMPLES="${FABRIC_SAMPLES:-$ROOT/fabric/network/fabric-samples}"
 command -v docker >/dev/null || { echo 'Docker is required' >&2; exit 1; }
