@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+.venv/
+results/*
+!results/.gitkeep
+datasets/
+*.pem
+*.key
+*.crt
+*.p12
+fabric/network/fabric-samples/
+*.pt
+*.pth
+*.jsonl.gz
+.env

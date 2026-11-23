@@ -1,0 +1,39 @@
+{
+  "date_utc": "2026-11-23",
+  "version": "0.1.0",
+  "python_tests_passed": 17,
+  "smoke_workflows": 96,
+  "smoke_train_epochs": 3,
+  "smoke_test_metrics": {
+    "n": 29,
+    "accuracy": 0.7241379310344828,
+    "precision": 0.5555555555555556,
+    "recall": 0.5555555555555556,
+    "f1": 0.5555555555555556,
+    "far": 0.2,
+    "tn": 16,
+    "fp": 4,
+    "fn": 4,
+    "tp": 5,
+    "pr_auc": 0.5419335375475726,
+    "roc_auc": 0.7277777777777777,
+    "step_f1": 0.0,
+    "step_exact_match_accuracy": 0.0
+  },
+  "simulated_ledger": {
+    "backend": "simulated_not_fabric",
+    "attempted": 583,
+    "accepted": 514,
+    "rejected": 69,
+    "acceptance_rate": 0.8816466552315609,
+    "blocks": 26,
+    "chain_valid": true,
+    "mean_local_processing_ms": 0.24409681303338962
+  },
+  "go_format_valid": true,
+  "go_compiled": false,
+  "fabric_executed": false,
+  "fabric_blocker": "No Docker and no network access to download required Go dependencies in the build environment",
+  "real_external_downloads_executed": false,
+  "disclaimer": "Demo smoke results only, not manuscript replication or real Fabric benchmarks"
+}
